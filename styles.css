@@ -38,19 +38,26 @@
     font-size: 32px;  
     display: block;  
     width: 100%; 
-   margin: 16 auto; 
-   color: wheat; 
-   padding: 4px 8px; 
-   cursor: pointer;  
-   background-color: blueviolet;  
-   border: none;  
-   border-radius: 4px; 
-
+    margin: 16px auto; 
+    color: wheat; 
+    padding: 4px 8px; 
+    cursor: pointer;  
+    background-color: blueviolet;  
+    border: none;  
+    border-radius: 12px; 
+    transform: transform 0,02s
 }
 
+.btn:hover{  
+    transform: scale(1.05);
+}
 
  .infos {  
-      max-width: 400px;  
-      margin: 32 auto;  
+      max-width: 500px;  
+      margin: 0; 
+      padding: 0; 
+      margin-top: -550px;
       font-size: 24px;
  }
+
+
