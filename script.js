@@ -25,7 +25,7 @@ btn.addEventListener('click',()=>{
   infos.innerHTML = ``
   arr.forEach((elemento,index)=>{
     infos.innerHTML += `
-    <p>Chegada: ${index+1}º</p>  
+    <p>Cadastro: ${index+1}º</p>  
     <p>Nome: ${elemento.nome}</p>  
     <p>CPF: ${elemento.cpf}</p>  
     <p>Data: ${elemento.data}</p>
@@ -33,7 +33,6 @@ btn.addEventListener('click',()=>{
     <p>Cidade: ${elemento.cidade}<p>
     <p>Email: ${elemento.email}<p/>
     <p>Gênero: ${elemento.genero}</p> 
-    <hr>
     `
 
   })
