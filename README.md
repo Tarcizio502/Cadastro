@@ -10,4 +10,7 @@ CSS: estilização da página
 
 JavaScript: manipulação dos dados e interatividade
 
-Este projeto foi desenvolvido como parte do meu aprendizado em desenvolvimento web, colocando em prática os conhecimentos adquiridos em HTML, CSS e JavaScript.</p>
+Este projeto foi desenvolvido como parte do meu aprendizado em desenvolvimento web, colocando em prática os conhecimentos adquiridos em HTML, CSS e JavaScript.</p> 
+<br> 
+<img src="https://github.com/user-attachments/assets/83d9a723-90b1-4318-a3d8-64fde8ab497c" />
+
